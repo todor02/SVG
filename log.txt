@@ -1,0 +1,2 @@
+[Sun Sep 08 18:39:39 EEST 2024] main.exceptions.CommandNotImplementedException: "oprn" is not recognized as internal or external command.
+
